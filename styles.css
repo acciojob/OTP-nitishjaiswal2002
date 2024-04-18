@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.code-container{
+	display:flex;
+}
+
+.code{
+	width: 200px;
+        height: 100px;
+        text-align: center;
+        margin: 0 5px;
+        border: 1px solid #ccc;
+        font-size: 18px;
+}
